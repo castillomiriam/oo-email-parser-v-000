@@ -4,6 +4,9 @@
 # or whitespace (' ').
 
 class EmailParser
-  attr_accessor :emails 
+  
+  attr_accessor :emails
+   
   def initialize(EmailParser)
+    
 end
